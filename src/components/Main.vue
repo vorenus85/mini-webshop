@@ -3,22 +3,24 @@
     <h1>Mini-webshop with Vue.js</h1>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">Bal
-          <div class="hoki">
-            <div class="hoki-title">asdasd</div>
-          </div>
+        <div class="shop-item col-md-3 col-sm-6"
+             v-for="data in myJson"
+             :key="data.id">
+          <span class="shop-item-name">{{data.name}}</span>
+          <img :src="data.imgUrl" class="img-fluid"/>
         </div>
-        <div class="col-md-6">Jobb</div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import json from '../json/data.json'
 export default {
-  name: 'HelloWorld',
+  name: 'Main',
   data () {
     return {
+      myJson: json,
       msg: 'Welcome to Your Vue.js App'
     }
   }
@@ -43,11 +45,5 @@ export default {
 
   a {
     color: #42b983;
-  }
-
-  .hoki {
-    &-title {
-      color: red;
-    }
   }
 </style>

@@ -1,5 +1,7 @@
 # mini-webshop
 
+<em>inspired by</em> https://codepen.io/rajcsanyiz/full/pLXyKx
+
 > A Vue.js project
 
 ## Build Setup

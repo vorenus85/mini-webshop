@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Dryden’s Guard™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewdrydensguard.png?l.r=-1045890265",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.25
+  },
+  {
+    "id": 2,
+    "name": "Elite Praetorian Guard™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewelitepraetorianguard.png?l.r=2062113468",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.35
+  },
+  {
+    "id": 3,
+    "name": "Weazel™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewweazel.png?l.r=1177739102",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.17
+  },
+  {
+    "id": 4,
+    "name": "Rio Durant™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewriodurant.png?l.r=1574619612",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.28
+  },
+  {
+    "id": 5,
+    "name": "Sandtrooper™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewsandtrooper.png?l.r=63865086",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 2.22
+  },
+  {
+    "id": 6,
+    "name": "Range Trooper™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewrangetrooper.png?l.r=1087612407",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.56
+  },
+  {
+    "id": 7,
+    "name": "Enfys Nest™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewenfysnest.png?l.r=-1919313861",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.82
+  },
+  {
+    "id": 8,
+    "name": "Imperial Gunner™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewimperialgunner.png?l.r=1073665847",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.62
+  },
+  {
+    "id": 9,
+    "name": "Kylo Ren™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/star%20wars%202018/august/overviewkyloren.png?l.r=196922707",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.87
+  },
+  {
+    "id": 10,
+    "name": "First Order Stormtrooper Sergeant™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/2017/sep%20672x896/firstorderstormtrooperseargent_75190_lego_star_wars_2hy17_september_fcs.png?l.r=-119699388",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.23
+  },
+  {
+    "id": 11,
+    "name": "First Order TIE Pilot™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/2017/sep%20672x896/firstordertiepilot_75179_lego_star_wars_2hy17_september_lego_com_full_character.png?l.r=1723187703",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.51
+  },
+  {
+    "id": 12,
+    "name": "Resistance Bombardier™",
+    "imgUrl": "https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/star%20wars/2017/sep%20672x896/resistancebombadier_75188_lego_star_wars_2hy17_september_lego_com_full_character.png?l.r=-479901262",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi praesentium tenetur voluptatem voluptates? Ducimus expedita fugit id ipsum neque officiis quos reiciendis. Accusamus temporibus, vitae?",
+    "price": 1.93
+  }
+]
